@@ -60,6 +60,7 @@ Create a simple test in protected/tests/unit folder exp:
         ?>
 
 and run in CLI
+
         cd path/to/your/application/protected/tests/unit
         php -f main.php
 
