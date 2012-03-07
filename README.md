@@ -36,6 +36,7 @@ Instalation
 
 4. Run Tests
 Create a simple test in protected/tests/unit folder exp:
+
         <?php
 
         //ExempleTest.php file
